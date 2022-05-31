@@ -24,6 +24,8 @@ Cookies help us store the client-side data to enable a personalized experience f
 
 ### Local storage VS Cookies?
 
+![Local storage VS Cookies](https://res.cloudinary.com/academind-gmbh/image/upload//v1/academind.com/content/tutorials/localstorage-vs-cookies-xss/localstorage-vs-cookies-xss)
+
 1. **Storage Limit**
    - local Storage stores up to 10 megabytes
    - cookies provide a very restrictive and small storage capacity of 4 kilobytes.
@@ -47,5 +49,11 @@ Cookies help us store the client-side data to enable a personalized experience f
 | **Editable and Blockable by users** | Yes                | Yes           |
 
 ---
+
+### Reference
+
+1. [Article](https://www.xenonstack.com/insights/local-vs-session-storage-vs-cookie)
+
+2. [Youtube Video](https://www.youtube.com/watch?v=sovAIX4doOE&list=LL&index=1&t=517s)
 
 ---
