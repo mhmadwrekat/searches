@@ -73,4 +73,6 @@ Cookies help us store the client-side data to enable a personalized experience f
 
 2. [Youtube Video](https://www.youtube.com/watch?v=sovAIX4doOE&list=LL&index=1&t=517s)
 
+3. [Stack overflow](https://stackoverflow.com/questions/7799728/localstorage-vs-cookies-performance)
+
 ---
