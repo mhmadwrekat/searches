@@ -50,6 +50,23 @@ Cookies help us store the client-side data to enable a personalized experience f
 
 ---
 
+### **How cookies can be used to preferences?**
+
+1. Do not use unnecessary content
+
+   - What has been previously read by a user can be collected and then shown to him, And some topics that the user did not care about should not be shown to him in the next time.
+   - And we can put his preference at the top of the site and others at the end .
+
+2. does he open any video !!
+
+   The user can be tracked in the event that he plays the video, a larger amount of the video will be shown to him in the next time and in top of website, and vice versa
+
+3. does he open any vioces !!
+
+   The user can be tracked in the event that he plays the voices, a larger amount of the voices will be shown to him in the next time and in top of website, and vice versa
+
+---
+
 ### Reference
 
 1. [Article](https://www.xenonstack.com/insights/local-vs-session-storage-vs-cookie)
