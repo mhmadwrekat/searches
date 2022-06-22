@@ -1,10 +1,10 @@
-## Cookies
+# Cookies
 
 ---
 
 <!-- **How to get user preferences from cookies ?** -->
 
-### What are Cookies?
+## What are Cookies?
 
 Cookies are data, stored in small text files, on your computer.
 
@@ -22,7 +22,7 @@ Cookies help us store the client-side data to enable a personalized experience f
 
 ---
 
-### Local storage VS Cookies?
+## Local storage VS Cookies?
 
 ![Local storage VS Cookies](https://res.cloudinary.com/academind-gmbh/image/upload//v1/academind.com/content/tutorials/localstorage-vs-cookies-xss/localstorage-vs-cookies-xss)
 
@@ -50,7 +50,7 @@ Cookies help us store the client-side data to enable a personalized experience f
 
 ---
 
-### **How cookies can be used to preferences?**
+## **How cookies can be used to preferences?**
 
 1. Do not use unnecessary content
 
@@ -67,7 +67,7 @@ Cookies help us store the client-side data to enable a personalized experience f
 
 ---
 
-### Reference
+## Reference
 
 1. [Article](https://www.xenonstack.com/insights/local-vs-session-storage-vs-cookie)
 
