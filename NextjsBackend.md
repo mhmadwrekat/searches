@@ -16,41 +16,35 @@ both of Next.js and Node.js can be primarily classified as Frameworks (Full Stac
 
 ## NextJs VS NodeJs?
 
-| Comparison                          | NextJs                            | NodeJs                                |
-| ----------------------------------- | --------------------------------- | ------------------------------------- |
-| **Developers**                      | 9 Developers                      | 1320 Developers                       |
-| **source**                          | open source                       | open source                           |
-| **Used**                            | 79 company stacks & 66 developers | 4055 company stacks & 3899 developers |
-| **Browser support**                 | Very high                         | Very high                             |
-| **Supported data types**            | String only                       | String only                           |
-| **Storage Location**                | Browser and server                | Browser only                          |
-| **Editable and Blockable by users** | Yes                               | Yes                                   |
+| Comparison          | NextJs                            | NodeJs                                |
+| ------------------- | --------------------------------- | ------------------------------------- |
+| **Developers**      | 9 Developers                      | 1320 Developers                       |
+| **source**          | open source                       | open source                           |
+| **Used**            | 79 company stacks & 66 developers | 4055 company stacks & 3899 developers |
+| **Browser support** | Very high                         | Very high                             |
 
 ---
 
-### Local storage VS Cookies?
+## my experience with full stack web app with nextjs!
 
-![Local storage VS Cookies](https://res.cloudinary.com/academind-gmbh/image/upload//v1/academind.com/content/tutorials/localstorage-vs-cookies-xss/localstorage-vs-cookies-xss)
+**_ِAfter searching and see people comments, Most of people recommend using a separate project for frontend and backend in big project case._**
 
-1. **Storage Limit**
-   - local Storage stores up to 10 megabytes
-   - cookies provide a very restrictive and small storage capacity of 4 kilobytes.
-2. **Accessibility**
-   - local Storage could be accessed in any window or tab open on the browser for a website.
-   - cookies are somewhat similar to local storage as they are accessible from any window or tab.
-     Cookies could also be accessed on the server. Whenever we request the back-end server, all the cookies are also sent along. So they are also used for tasks related to authentication.
-3. **Expiration**
-   - Local Storage data never expires until you manually remove it, so in that sense, it could be very useful.
-   - Cookies we can manually set the expiration date for them.
+- NextJs Framework.
+- TailwindCss Framework.
+- Vercel.
+- Atlas MongoDB.
+- Libraries (isomorphic-unfetch, mongoose, axios, sweetalert2)
+
+- _[Github Demo.](https://github.com/mhmadwrekat/fullstack)_
+
+- **[Live URL.](https://fullstack-snowy.vercel.app/)**
 
 ---
 
-### Reference
+### References
 
 1. [Article](https://stackshare.io/stackups/next-js-vs-nodejs)
 
-2. [Youtube Video](https://www.youtube.com/watch?v=sovAIX4doOE&list=LL&index=1&t=517s)
-
-3. [Stack overflow](https://stackoverflow.com/questions/7799728/localstorage-vs-cookies-performance)
+2. [Discusstion & comments](https://www.reddit.com/r/nextjs/comments/r23qec/is_it_bad_to_make_fullstack_app_with_just_nextjs/)
 
 ---
