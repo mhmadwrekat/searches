@@ -12,7 +12,9 @@ Still, when dealing with heavy components or libraries that work in the Browser,
 
 ---
 
-## NextJs VS NodeJs?
+![Dynamic import NextJS](https://miro.medium.com/max/1200/1*iDlg1Zw9hQFdWsl-_ua8-g.png)
+
+---
 
 - Next.js offers dynamic import of react components with the help of the next/dynamic
 
