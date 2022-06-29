@@ -10,4 +10,6 @@
 
 - [NextJS Full stack](./NextjsBackend.md)
 
+- [Dynamic Import](./DynamicImport.md)
+
 <!-- - [NextJS Backend](./NextjsBackend.md) -->
