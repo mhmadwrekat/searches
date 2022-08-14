@@ -12,4 +12,6 @@
 
 - [Dynamic Import](./DynamicImport.md)
 
+- [Varnish Software](./VarnishSoftware.md)
+
 <!-- - [NextJS Backend](./NextjsBackend.md) -->
