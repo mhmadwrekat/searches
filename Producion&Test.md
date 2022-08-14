@@ -5,8 +5,9 @@
 ## How Its Work ?!
 
 - Create File Names : (.env.production.local)
-- Put Your Test Variable On It
+- Put Your production Variable On It
 - in Your package.json Add To Script --> "prod_start": "next production",
-- npm run build
-- npm run dev To Work from (.env.local)
-- npm start To work From (.env.production.local)
+- Production :
+  - npm run build then npm start To work From (.env.production.local)
+- Test ENV :
+  - npm run dev To Work from (.env.local)
